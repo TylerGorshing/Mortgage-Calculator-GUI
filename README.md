@@ -14,4 +14,4 @@ After completing the mortgage calculator without a GUI, this project was meant t
 
 Running the program requires navigating to the correct directory in the terminal launching the program with the `python` or `python3` command, depedning on how your environment is set up. Upon launch, a GUI window pops up with areas for text input from the user and output from the program and a "Calculate" button.
 
-[New GUI Window](Images/img1.png)  
+![New GUI Window](Images/img1.png)  
